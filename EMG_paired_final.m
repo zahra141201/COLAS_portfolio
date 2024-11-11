@@ -24,7 +24,7 @@ fc_notch = 50; % Notch Filter Frequency
 q = 10 ; % Notch Quality Factor
 
 % Stim Calculation Parameter
-t_stim = [0.01 0.04]; % temps de début de repérage min pour stim
+t_stim = [0.01 0.04]; % Time Frame for Calculations
 discrim_diff = 2; % Discrimination Parameter for Post Activation Depression
 discrim_diff_norm = 3; % Normalized Discrimination Parameter for Post Activation Depression
 
