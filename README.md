@@ -3,9 +3,11 @@
 In this portfolio, you will find:
 
 
+
 A. IFSBM_ROUSSY.html
 
 This file corresponds to the lab conducted during a course taught by Yoann Pradat, Julien Vibert, and Else Bernard at the IFSBM. The goal was to learn how to analyze TCGA data in R and apply classification tools through modeling, regression, and deep learning techniques.
+The file needs to be downloaded to be read.
 
 
 B. Signal_Processing
